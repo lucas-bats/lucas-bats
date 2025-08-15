@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas-bats
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in AI, machine learning and python
+- 🌱 I’m currently developing WebApps
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me lucaspaesbatista1@gmail.com
 
